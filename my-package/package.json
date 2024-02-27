@@ -24,6 +24,11 @@
         "email": "bradgarropy@gmail.com",
         "url": "https://bradgarropy.com"
     },
+    "dependencies": {
+    "@thenhthang/react-native-colorpicker": "^0.0.10",
+    "react-native-slider": "^0.11.0",
+    "tinycolor2": "^1.4.1"
+  },
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/thenhthang/teatestnet2/issues"
