@@ -1,6 +1,6 @@
 {
     "name": "@thenhthang/teatestnet2",
-    "version": "0.0.21",
+    "version": "0.0.22",
     "description": "Tea testnet 2",
     "main": "index.js",
     "scripts": {
@@ -20,9 +20,9 @@
         "registry"
     ],
     "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
+        "name": "Wolfgang",
+        "email": "vinnodes@gmail.com",
+        "url": "https://vinnodes.com"
     },
     "dependencies": {
     "@thenhthang/react-native-colorpicker": "^0.0.10",
