@@ -1,6 +1,6 @@
 {
     "name": "@thenhthang/teatestnet2",
-    "version": "0.0.2",
+    "version": "0.0.21",
     "description": "Tea testnet 2",
     "main": "index.js",
     "scripts": {
